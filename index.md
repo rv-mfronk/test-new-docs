@@ -8,7 +8,7 @@ heroImage: "/upload/splash.png"
 #actionLink: "/docs/"
 cards:
 - title: Quick Start
-  content: Help spread a documentation culture. You can do it. We can help.
+  content: Help spread a documentation culture. You can do it. We can help!!
   actionLink: "/getting-started/"
   actionText: Doc the things
 - title: Doc Types
